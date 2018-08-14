@@ -1,5 +1,7 @@
 # Java-Switch-Statement-Practice
 CodeAcademy Aug 13
+
+
 public class Continents {
 	public static void main(String[] args) {
 int continent = 4;
